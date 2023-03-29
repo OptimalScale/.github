@@ -2,7 +2,7 @@
 
 <a href="https://discord.gg/NcMPyDVP"><img alt="discord invitation link" src="https://dcbadge.vercel.app/api/server/NcMPyDVP?style=flat"></a>
 [![WeChat badge](https://img.shields.io/badge/微信-加入-green?logo=wechat&amp)](https://i.328888.xyz/2023/03/29/ik03sC.png)
-[![slack badge](https://img.shields.io/badge/Slack-join-blueviolet?logo=slack&amp)](https://join.slack.com/t/optimalscale/shared_invite/zt-1s6egx12s-THlwHuCjF6~JGKmx7JoJPA)
+[![slack badge](https://img.shields.io/badge/Slack-join-blueviolet?logo=slack&amp)](https://join.slack.com/t/lmflow/shared_invite/zt-1s6egx12s-THlwHuCjF6~JGKmx7JoJPA)
 
 LMFlow Contributors
 
