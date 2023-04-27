@@ -1,5 +1,5 @@
 [![](https://img.shields.io/github/stars/OptimalScale/LMFlow?style=social)](https://github.com/OptimalScale/LMFlow/)
-![](https://dcbadge.vercel.app/api/shield/mt_cool#8079)
+![](https://dcbadge.vercel.app/api/shield/mt_cool)
 
 <a href="https://discord.gg/pbykGcSc"><img alt="discord invitation link" src="https://dcbadge.vercel.app/api/server/srGxyazbNs?style=flat"></a>
 [![WeChat badge](https://img.shields.io/badge/微信-加入-green?logo=wechat&amp)](https://i.328888.xyz/2023/04/04/ibvpAk.jpeg)
